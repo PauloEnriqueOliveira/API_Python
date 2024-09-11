@@ -1,4 +1,3 @@
-# Update da api
 from flask import Flask, request, jsonify
 import mysql.connector
 from mysql.connector import Error
